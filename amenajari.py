@@ -1,5 +1,6 @@
 
 #%%
+##USE jupyter notebook to run it##
 
 
 ### this extracts data from inspectorul padurii for harti STAT 
